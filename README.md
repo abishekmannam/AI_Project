@@ -29,7 +29,7 @@ Both agents run on `gemini-2.5-flash` via Google ADK's `LlmAgent` backed by an `
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/smart-hotel-agent.git
+git clone https://github.com/abishekmannam/smart-hotel-agent.git
 cd smart-hotel-agent
 
 python3 -m venv .venv
